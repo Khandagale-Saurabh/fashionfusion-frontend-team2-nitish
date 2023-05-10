@@ -1,4 +1,4 @@
-# Fashion Fusion eCommerce Web App
+# Fashion Fusion 
 Fashion Fusion is a full-stack eCommerce project designed to sell clothes online. The project uses modern technologies to provide an engaging user interface and a seamless shopping experience. The frontend of the project was developed using React, Context API, and React Router. Paypal was integrated as the payment gateway.
 
 ## Features
