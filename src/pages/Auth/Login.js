@@ -17,16 +17,22 @@ const Login = () => {
 // Test login function as user
 const handleUser=()=>
 {
-  setEmail("nazim@gmail.com")
-  setPassword("123321")
+//   setEmail("nazim@gmail.com")
+//   setPassword("123321")
+   setEmail("khandagalesaurabh5@gmail.com")
+  setPassword("Saibaba54321@@#")
+  
+  
   handleSubmit()
 }
 
 // Test login function as admin
 const handleAdmin=()=>
 {
-  setEmail("Jiteshkumar872001@gmail.com")
-  setPassword("123321")
+//   setEmail("Jiteshkumar872001@gmail.com")
+//   setPassword("123321")
+  setEmail("khandagalesaurabh5@gmail.com")
+  setPassword("Saibaba54321@@#")
   handleSubmit()
 }
 
