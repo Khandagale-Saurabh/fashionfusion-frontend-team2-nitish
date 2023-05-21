@@ -1,4 +1,6 @@
 ## Table of contents
+
+* [About](#![image](https://github.com/Khandagale-Saurabh/fashionfusion-frontend-team2-nitish/assets/59130610/fff642da-a5fa-4b66-9f91-c0902d64cda0))
 * [Features](#Features)
 * [Tech Stack](#Tech-Stack)
 * [Live Project](#Live-Project)
