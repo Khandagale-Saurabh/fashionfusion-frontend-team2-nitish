@@ -78,5 +78,5 @@ Fashion Fusion is licensed under the MIT License. See the LICENSE file for more 
 
 ## Feedback
 
-Please let us know your thoughts on my app by sending any suggestions or feedback to jiteshkumar872001@gmail.com.
+Please let us know your thoughts on my app by sending any suggestions or feedback to khandagalesaurabh5@gmail.com
 
