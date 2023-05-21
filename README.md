@@ -1,7 +1,26 @@
-![image](https://github.com/Khandagale-Saurabh/fashionfusion-frontend-team2-nitish/assets/59130610/fff642da-a5fa-4b66-9f91-c0902d64cda0)  | FrontEnd
+## Table of contents
+
+* [Install](#Install)
+* [About](#About)
+* [Features](#Features)
+* [Tech Stack](#Tech-Stack)
+* [Live Project](# (https://fashionfusion-frontend-team2-nitish.vercel.app/) )
+* [ScreenShot](#ScreenShots)
+* [License](#License)
+
+## Install
+To run this project, install it locally using npm:
+
+```
+$ cd fashionfusion-frontend-team2-nitish-master
+$ npm install
+$ npm start
+```
 
 
--Fashion Fusion is a full-stack eCommerce project designed to sell clothes online. The project uses modern technologies to provide an engaging user interface and a seamless shopping experience. The frontend of the project was developed using React, Context API, and React Router. Paypal was integrated as the payment gateway.
+## About
+#  ![image](https://github.com/Khandagale-Saurabh/fashionfusion-frontend-team2-nitish/assets/59130610/fff642da-a5fa-4b66-9f91-c0902d64cda0) 
+Fashion Fusion is a full-stack eCommerce project designed to sell clothes online. The project uses modern technologies to provide an engaging user interface and a seamless shopping experience. The frontend of the project was developed using React, Context API, and React Router. Paypal was integrated as the payment gateway.
 
 ## Features
 - 📱 Easy to navigate user interface for shopping
