@@ -4,7 +4,7 @@
 * [About](#About)
 * [Features](#Features)
 * [Tech Stack](#Tech-Stack)
-* [Live Project](#[Live-Project](https://fashionfusion-frontend-team2-nitish.vercel.app/))
+* [Live Project](# https://fashionfusion-frontend-team2-nitish.vercel.app/ )
 * [ScreenShot](#ScreenShots)
 * [License](#License)
 
