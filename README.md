@@ -1,3 +1,8 @@
+## Table of contents
+* [Features](#Features)
+* [FrontEnd](#Frontend)
+* [BackEnd](#Backend)
+* [Payment Gateway](#Payment-Gateway)
 #  ![image](https://github.com/Khandagale-Saurabh/fashionfusion-frontend-team2-nitish/assets/59130610/fff642da-a5fa-4b66-9f91-c0902d64cda0) 
 Fashion Fusion is a full-stack eCommerce project designed to sell clothes online. The project uses modern technologies to provide an engaging user interface and a seamless shopping experience. The frontend of the project was developed using React, Context API, and React Router. Paypal was integrated as the payment gateway.
 
