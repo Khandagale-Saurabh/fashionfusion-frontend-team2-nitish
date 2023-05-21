@@ -1,6 +1,6 @@
 ## Table of contents
 
-* [Install](*Install)
+* [Install](#Install)
 * [About](#About)
 * [Features](#Features)
 * [Tech Stack](#Tech-Stack)
